@@ -32,3 +32,6 @@ def is_even(number):
 
 def is_odd(n):
 	return n % 2 != 0
+
+def func(n):
+	return 10*n
